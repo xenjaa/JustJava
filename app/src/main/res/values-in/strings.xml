@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ngopi Yuk!</string>
+    <string name="order">Pesanan</string>
+    <string name="quantity">Banyak</string>
+    <string name="ordersum">Rangkuman</string>
+    <string name="price">Harga</string>
+    <string name="whippedcream">Krim Kocok</string>
+    <string name="toppings">Taburan</string>
+    <string name="choco">Cokelat</string>
+    <string name="nameTextField">" Nama"</string>
+    <string name="thank_you">Nuhun Nya</string>
+    <string name="total">Totalan</string>
+    <string name="person_name">Nama</string>
+    <string name="toast_increment">Maaf! Pesanan maksimal 100 kopi :)</string>
+    <string name="toast_decrement">Maaf! Pesanan minimal 1 kopi :(</string>
+</resources>
